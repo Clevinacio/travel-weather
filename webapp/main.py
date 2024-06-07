@@ -10,8 +10,8 @@ wellknown_path = join(current_dir, ".well-known")
 historical_data = join(current_dir, "weather.json")
 
 app = FastAPI()
-app.mount("/.well-known", 
-          StaticFiles(directory=wellknown_path), 
+app.mount("/.well-known",
+          StaticFiles(directory=wellknown_path),
           name="static")
 
 
