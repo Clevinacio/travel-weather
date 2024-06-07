@@ -109,6 +109,22 @@
       "December": {"high": 51, "low": 35}
     }
   },
+  "Brazil": {
+    "Rio de Janeiro": {
+      "January": {"high": 88, "low": 76},
+      "February": {"high": 88, "low": 76},
+      "March": {"high": 87, "low": 75},
+      "April": {"high": 85, "low": 73},
+      "May": {"high": 82, "low": 70},
+      "June": {"high": 79, "low": 67},
+      "July": {"high": 78, "low": 66},
+      "August": {"high": 79, "low": 67},
+      "September": {"high": 80, "low": 68},
+      "October": {"high": 82, "low": 70},
+      "November": {"high": 84, "low": 72},
+      "December": {"high": 86, "low": 74}
+    }
+  },
   "Spain": {
     "Seville": {
       "January": {"high": 61, "low": 41},
