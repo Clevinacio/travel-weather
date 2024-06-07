@@ -16,6 +16,7 @@ def test_countries():
                                        "France",
                                        "Germany",
                                        "Italy",
+                                       "Brazil",
                                        "Peru",
                                        "Portugal",
                                        "Spain"]
